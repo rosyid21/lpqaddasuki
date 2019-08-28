@@ -34,4 +34,5 @@ class User extends Authenticatable
 }
 
 - menambahkan tampilan popups
-   
+- login berhasil
+- login gagal;
